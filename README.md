@@ -28,11 +28,11 @@
   
 <hr>
 
-🍀👨‍💻 Apaixonado por tecnologia, sou Desenvolvedor Backend especializado em criar soluções robustas e escaláveis. Com um foco em linguagens e tecnologias como Node.js, JavaScript e TypeScript, tenho uma sólida experiência em bancos de dados, como SQL Server e Oracle, para garantir o desempenho eficiente de aplicações empresariais.
+<p align="justify">🍀👨‍💻 Apaixonado por tecnologia, sou Desenvolvedor Backend especializado em criar soluções robustas e escaláveis. Com um foco em linguagens e tecnologias como Node.js, JavaScript e TypeScript, tenho uma sólida experiência em bancos de dados, como SQL Server e Oracle, para garantir o desempenho eficiente de aplicações empresariais.
 
 Minha jornada como desenvolvedor é motivada pela busca constante por desafios que permitam transformar ideias em soluções tecnológicas reais. Acredito na importância de construir código limpo e organizado, sempre focado em arquitetura bem estruturada e alinhada com os princípios de **Domain-Driven Design (DDD)** e **Clean Architecture**.
 
-O backend é minha especialidade, onde gosto de explorar profundamente a lógica de negócios e a integração com bancos de dados, garantindo que as aplicações sejam eficientes, seguras e fáceis de manter. Meu objetivo é sempre entregar produtos de alta qualidade que atendam às necessidades dos usuários e do mercado.
+O backend é minha especialidade, onde gosto de explorar profundamente a lógica de negócios e a integração com bancos de dados, garantindo que as aplicações sejam eficientes, seguras e fáceis de manter. Meu objetivo é sempre entregar produtos de alta qualidade que atendam às necessidades dos usuários e do mercado.</p>
 
 <br/>
 
