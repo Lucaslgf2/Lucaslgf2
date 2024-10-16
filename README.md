@@ -25,10 +25,8 @@
     <img align="center" src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
     <img align="center" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
 </div>
-<br/>
   
 <hr>
-<br/>
 
 🍀👨‍💻 Apaixonado por tecnologia, sou Desenvolvedor Backend especializado em criar soluções robustas e escaláveis. Com um foco em linguagens e tecnologias como Node.js, JavaScript e TypeScript, tenho uma sólida experiência em bancos de dados, como SQL Server e Oracle, para garantir o desempenho eficiente de aplicações empresariais.
 
